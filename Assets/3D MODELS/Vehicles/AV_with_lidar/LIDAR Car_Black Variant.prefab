@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &672886138255974388
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 915793081973375895, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bd482156f5fb414eb487fe3c35902ba, type: 2}
+    - target: {fileID: 1806525188327950639, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bd482156f5fb414eb487fe3c35902ba, type: 2}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821514, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3296944681851821515, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_Name
+      value: LIDAR Car_Black Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4731593532966376486, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3bd482156f5fb414eb487fe3c35902ba, type: 2}
+    - target: {fileID: 4731593532966376486, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1ed9d400d7f93f144b5db7a6a7edad5a, type: 2}
+    - target: {fileID: 8361218557245784680, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 44d0a12f84c344b4e96ab02c8c3767ed, type: 3}
